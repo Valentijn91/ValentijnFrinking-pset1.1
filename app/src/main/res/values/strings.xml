@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Valentijn Frinking-pset1</string>
+    <string name="hat_switch">Hat </string>
+    <string name="eyes_switch">Eyes</string>
+    <string name="mouth_switch">Mouth</string>
+    <string name="mustache_switch">Mustache</string>
+    <string name="eyebrow_switch">Eyebrow</string>
+    <string name="ears_switch">Ears</string>
+    <string name="nose_switch">Nose</string>
+    <string name="shoes_switch">Shoes </string>
+    <string name="glasses_switch">Glasses</string>
+    <string name="arms_switch">Arms </string>
+
+
+</resources>
